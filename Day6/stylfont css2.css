@@ -1,0 +1,14 @@
+@font-face {
+    font-family: Hariom;
+    src: url(../fonts/Poppins/Poppins-BoldItalic.ttf);
+}
+h1{
+    font-family: "Hariom";
+}
+@font-face {
+    font-family:Hariom1 ;
+    src: url(../fonts/Poppins/Poppins-ThinItalic.ttf);
+}
+p{
+font-family:"Hariom1";
+}

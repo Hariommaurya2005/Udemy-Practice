@@ -1,0 +1,25 @@
+ol{ text-align: center;
+    margin-left: -40px;
+    margin-top: -20px;
+    list-style: inside;
+}
+h1{
+    text-align: center;
+}
+h2{
+    
+    text-align: center;
+}
+p{
+    text-align: center;
+    color: red;
+}
+ .First{
+    color: rgb(119, 128, 0);
+} 
+#Second{
+    color: blue;
+}
+li[value]{
+    color:red;
+}

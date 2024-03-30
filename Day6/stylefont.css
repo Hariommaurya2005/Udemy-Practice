@@ -1,0 +1,10 @@
+@font-face {
+    font-family: "Hariom";
+    src: url('../fonts/Autumn\ in\ November.ttf');
+}
+
+
+
+div{
+    font-family: "Hariom";
+}

@@ -1,0 +1,19 @@
+h2{
+    font-weight: bold;
+}
+.First{
+    font-weight: lighter;
+}
+#red{
+    color: red;
+}
+#Blue{
+    color: blue;
+}
+#Yellow{
+    color: yellow;
+}
+img{
+    width: 200px;
+    height: 200px;
+}

@@ -1,0 +1,22 @@
+#first{
+    background-color:cyan;
+    height: 600px;
+    display: block;
+    justify-content: center;
+    align-items: center;
+    
+}
+@font-face {
+    font-family: Hariom;
+    src: url(../fonts/OFL.txt);
+}
+#HARIOM{
+    font-family: Hariom;
+}
+@font-face {
+    font-family: Hariom1;
+    src: url(../fonts/static/Caveat-Regular.ttf);
+}
+#ha{
+font-family: Hariom1;
+}

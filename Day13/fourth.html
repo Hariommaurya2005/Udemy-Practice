@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+    //     var massage="Hello"
+    //     var name="Hariom"
+    // alert(massage + " there " +name)
+ 
+    // var tweet=prompt("Copare your tweet: ");
+    // var tweetCount= tweet.length;
+    // alert("You have writen "+ tweetCount  +" Chararcters,You have "+(140-tweetCount)+ "Characters remaning")
+
+    // var tweet=prompt("Compose Your tweet :");
+    // var tweetUnder140=tweet.slice(0,140);
+    // alert(tweetUnder140);
+
+
+//    alert(prompt("Compose Your tweet :").slic(0,140));
+
+
+var name=prompt("What is your Name");
+var firstchar=name.slice(0,1);
+var Upercasefirst=firstchar.toUpperCase();
+var restOfname=name.slice(1,name.length);
+restOfname=restOfname.toLowerCase();
+var captilisedName=Upercasefirst+restOfname;
+alert("Hello "+ captilisedName) ;
+
+
+    </script>
+</body>
+</html>
